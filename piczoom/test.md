@@ -1,1 +1,1 @@
-![image](https://github.com/yanghongmeiwang/imgcart/blob/master/imgproject/piczoom/piczoom.png)
+![image](https://github.com/yanghongmeiwang/imgcart/blob/master/piczoom/piczoom.png)
